@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+Updated README FILE
 <<<<<<< HEAD
 My first commit
 =======
